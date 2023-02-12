@@ -12,7 +12,7 @@ A comprehensive investigation of a company's ideal clients is known as customer 
 
 ## Dataset
 
-This dataset is taken from kaggle, it has 29 attributes. The source of the dataset https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+This dataset is taken from kaggle, it has 2240 rows and 29 columns. The source of the dataset https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 ### Attributes
 * ID: Customer's unique identifier
