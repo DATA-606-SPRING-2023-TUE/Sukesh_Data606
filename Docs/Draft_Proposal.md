@@ -42,3 +42,8 @@ This dataset is taken from kaggle, it has 29 attributes. The source of the datas
 * NumCatalogPurchases: Number of purchases made using a catalogue
 * NumStorePurchases: Number of purchases made directly in stores
 * NumWebVisitsMonth: Number of visits to company’s website in the last month
+
+
+## ML Modeles:
+
+I plan on using Kmeans culstering, Agglomerative , hierarchial clustering and select the model that will provide a clear analysis on the dataset. There are other algorithms also that I would like to try while working on this dataset. The feature selection will be decided after performing a extensive EDA on the dataset. 
