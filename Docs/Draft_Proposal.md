@@ -1,4 +1,4 @@
-# Customer Personality Analysis 
+# Customer Shopping Analysis 
 
 
 ## Introduction:
