@@ -86,7 +86,7 @@ After performing the cluster analysis, The clsuter1 and cluster2 are resulted by
 
 ![image](https://github.com/Sukesh-bitragunta/Sukesh_Data606/assets/98784645/9d44f17f-5eb7-4a96-9dce-c2e8be2ecc2a)
 
-After performing cluster analysis bu using the both the algorithms, the observations showed that the both algorithms are similarly clustered the dataset.
+After performing cluster analysis on both the algorithms, the observations showed that the both algorithms are similarly clustered the dataset. They are almost indetical in some features.
 
 ## Conclusion
 
