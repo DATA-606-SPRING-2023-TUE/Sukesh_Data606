@@ -2,6 +2,11 @@
 ![image](https://github.com/Sukesh-bitragunta/Sukesh_Data606/assets/98784645/15734b0e-29d3-423a-b6a3-9095c09667d7)
 
 
+## Presentation Link: https://youtu.be/14R9wM-9orM
+
+## PPT link: https://github.com/Sukesh-bitragunta/Sukesh_Data606/blob/main/Docs/Customer%20Shopping%20Analaysis.pptx
+
+
 ## Introduction
 
 Custer shopping analysis is used by every company and organization, this helps the company to changes its marketing strategy from every customer to customer whom would be willing to buy. Instead of paying  marketing every product of the company to  every customer in the company database and to wait whether the product would be successful or not. This will help the company a lot more, by performing this segregation companies may determine which segment of customers most likely to purchase the product and then market that product to those customers.
